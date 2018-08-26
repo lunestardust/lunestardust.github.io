@@ -2,12 +2,12 @@
 title: LuneStardust
 subtitle: MUSIC IS LIFE
 #welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-#description: Vno Jekyll is a port of my Ghost theme vno.
+description: Open Source Audio Hardware
 #creator: <a href="http://onev.cat">@onevcat</a>
 
 #url: "http://vno.onevcat.com"
 
-permalink: /:year/:month/:title/
+permalink: /:year/:month/:title/ 
 
 # Format
 highlighter: rouge
