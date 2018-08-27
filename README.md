@@ -1,13 +1,16 @@
-# Vno - Jekyll
+# LuneStardust
+
+The site provides open source audio hardware designs including DAC, amplifiers. 
 
 [Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-## Live Demo
-
-See [Vno - Jekyll](http://vno.onevcat.com) site and [my blog](http://onevcat.com).
-
-You can also find some instruction as well as other sites using Vno theme in [this page](http://vno.onevcat.com/2016/02/hello-world-vno/).
 
 ## Licence
+Except where otherwise noted, content on this site is licensed under a [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by/4.0/) license.
 
-Great thanks to [Dale Anthony](https://github.com/daleanthony) and his [Uno](https://github.com/daleanthony/uno). Vno Jekyll is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Vno Jekyll is followed with Uno and be licensed as [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/). See the link for more information.
+
+## Acknowledgement
+
+The site is created on [GitHub Pages](https://pages.github.com/) by using [Jekyll](https://jekyllrb.com).
+
+Theme: [Vno - Jekyll](https://github.com/onevcat/OneV-s-Den) by [@onevcat](https://onev.cat/)
