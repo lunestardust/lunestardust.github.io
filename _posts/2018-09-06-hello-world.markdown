@@ -7,8 +7,11 @@ date: 2018-09-06 20:57:24.000000000 +08:00
 #### About 
 
 This is a site where you can find some open source audio hardware designs,
-including power sources, DACs and amplifiers. 
+including interfaces, DACs and amplifiers. 
 All the projects are developed in accordance with our interests.
+
+Apart from that,
+some notes on hardware design may be published.
 
 #### Again
 
