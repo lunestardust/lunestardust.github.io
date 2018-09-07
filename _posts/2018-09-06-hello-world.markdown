@@ -13,18 +13,18 @@ All the projects are developed in accordance with our interests.
 Apart from that,
 some notes on hardware design may be published.
 
-## Again
+### Again
 
 The site was hosted in another server until it crashed one day.
 We lost the data and decided to build a new one on GitHub.
 
-#### License
+### License
 
 Except where otherwise noted, 
 contents on this site are licensed under a 
 [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license. 
 
-#### Disclaimer
+### Disclaimer
 
 Though we will verify the designs before publishing them,
 we cannot guarantee the contents' accuracy, completeness or topicality. 
