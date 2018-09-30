@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RP_DEV_NOTE FPGA development environment for Red Pitaya on Windows 10
+title: RP_DEV_NOTE 01 FPGA development environment for Red Pitaya on Windows 10
 date: 2018-09-30 20:57:24.000000000 +08:00
 ---
 
