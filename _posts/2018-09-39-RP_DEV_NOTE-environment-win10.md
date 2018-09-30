@@ -46,9 +46,8 @@ though Xming hasn't been updated for a long time.
 
 #### Second
 
-There is a small mistake in the post.
-> After installing X Server on Windows, one should make D-Bus use tcp in place of sockets,using the following command
-
+There is a small mistake in this article.
+> After installing X Server on Windows, one should make D-Bus use tcp in place of sockets,using the following command  
 > `sudo sed -i 's/<listen>.*<\/listen>/<listen>tcp:host=localhost,port=0<\/listen>/' /etc/dbus-1/session.conf`
 
 However,
