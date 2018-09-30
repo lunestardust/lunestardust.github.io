@@ -92,6 +92,7 @@ so you may not install them.
 [Start programming FPGA using Red Pitaya board](https://red-pitaya-fpga-examples.readthedocs.io/en/latest/_downloads/StartprogrammingFPGAusingRedPitayaboard.pdf)
 is an official article which details the steps of installing Vivado on Ubuntu.
 However, unlike described in it,
-we need Vivado 2017.2 edition to support the FPGA programs running on Red Pitaya OS 0.97.
+we need [Vivado 2017.2](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Vivado_SDK_2017.2_0616_1_Lin64.bin)
+edition to support the FPGA programs running on Red Pitaya OS 0.97.
 
 Enjoy!
