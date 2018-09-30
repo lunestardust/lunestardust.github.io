@@ -37,7 +37,7 @@ We can run a X Serve on Windows to host the GUI program on WSL.
 Please read it but wait a moment before your implementation,
 because I'd like to provide some suggestions.
 
-#### Fist
+#### First
 
 In my opinion, [Xming](https://sourceforge.net/projects/xming/)
 works better than [VcXsrv](https://sourceforge.net/projects/vcxsrv/),
@@ -50,14 +50,14 @@ There is a small mistake in the post.
 > `sudo sed -i 's/<listen>.*<\/listen>/<listen>tcp:host=localhost,port=0<\/listen>/' /etc/dbus-1/session.conf`
 
 However,
-`session.conf` does not in the folder `/etc/dbus-1/`.
+`session.conf` does not in the folder `/etc/dbus-1`.
 One WSL,
-the file is located in `/etc/dbus-1/`.
+the file is located in `/usr/share/dbus-1`.
 
-### Third
+#### Third
 
 You can find WSL in
-`C:\Users\USER_NAME\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs`
+`C:\Users\USER_NAME\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs`,
 but **DO NOT** edit the files of WSL directly by the editors in Windows.
 You may change the access permission of the file when saving new contents in it.
 If you prefer GUI editors, just install one of them on WSL, e.g. Geany:
@@ -66,7 +66,7 @@ If you prefer GUI editors, just install one of them on WSL, e.g. Geany:
 Similarly,
 copy or move files to the folder of WSL on Windows may also lead to problems.
 The drivers of Windows are mounted in the folder 
-`\mnt` on WSL.
+`/mnt` on WSL.
 Therefore,
 use `cp` or `mv` to copy or move files.
 
