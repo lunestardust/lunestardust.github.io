@@ -46,12 +46,12 @@ though Xming hasn't been updated for a long time.
 #### Second
 
 There is a small mistake in the post.
->After installing X Server on Windows, one should make D-Bus use tcp in place of sockets,using the following command 
+> After installing X Server on Windows, one should make D-Bus use tcp in place of sockets,using the following command 
 > `sudo sed -i 's/<listen>.*<\/listen>/<listen>tcp:host=localhost,port=0<\/listen>/' /etc/dbus-1/session.conf`
 
 However,
 `session.conf` does not in the folder `/etc/dbus-1`.
-One WSL,
+On WSL,
 the file is located in `/usr/share/dbus-1`.
 
 #### Third
