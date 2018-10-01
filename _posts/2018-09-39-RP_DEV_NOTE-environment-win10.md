@@ -65,7 +65,7 @@ If you prefer GUI editors, just install one of them on WSL, e.g. Geany:
 `sudo apt-get install geany`.
 
 Similarly,
-copy or move files to the folder of WSL on Windows may also lead to problems.
+copying or moving files to the folder of WSL on Windows may also lead to problems.
 The drivers of Windows are mounted in the folder 
 `/mnt` on WSL.
 Therefore,
