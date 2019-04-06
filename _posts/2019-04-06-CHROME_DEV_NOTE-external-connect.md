@@ -5,11 +5,11 @@ date: 2019-04-06 18:37:24.000000000 +08:00
 ---
 
 
-The post explains the method of sending DOM content to serial port by cross-extension messaging
+The post explains the method of sending DOM content to serial port by cross-extension messaging.
 
 ### Difference between Chrome Apps and Extensions
 
-In the first place, please read the two posts [What Are Chrome Apps?](https://developer.chrome.com/apps/about_apps) and [What are extensions?](https://developer.chrome.com/extensions).
+In the first place, please read the two posts [What Are Chrome Apps](https://developer.chrome.com/apps/about_apps) and [What are extensions](https://developer.chrome.com/extensions).
 
 Recently, I was asked to build a project,
 in which a part of web page content should be sent to serial port.
