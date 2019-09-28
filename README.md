@@ -1,6 +1,6 @@
 # LuneStardust
 
-The site provides open source audio hardware designs including DAC, amplifiers. 
+The site provides open source audio hardware designs including DAC, amplifiers, etc. 
 
 
 ## Licence
